@@ -4,3 +4,11 @@ disaster managment
 
 
 code -> stage -> commit
+
+git init
+git add .
+git status
+git commit 
+git push
+git pull
+git branch
