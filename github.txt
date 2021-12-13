@@ -1,0 +1,6 @@
+souce control repo
+team can work together
+disaster managment
+
+
+code -> stage -> commit
